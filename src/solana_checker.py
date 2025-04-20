@@ -4,5 +4,6 @@ http_client = Client("https://api.devnet.solana.com")
 
 
 def solana_check():
-    print("solana check")
+    pass
+    
  
